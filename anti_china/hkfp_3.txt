@@ -1,0 +1,37 @@
+The announcement by YouTube’s parent company came after Twitter and Facebook accused the Chinese government of backing a social media campaign to discredit Hong Kong’s protest movement and sow political discord in the city.
+
+Google disabled 210 YouTube channels that it found behaved in a coordinated manner while uploading videos related to the Hong Kong protests, according to Shane Huntley of the company’s security threat analysis group.
+
+“This discovery was consistent with recent observations and actions related to China announced by Facebook and Twitter,” Huntley said in an online post.
+
+Twitter and Facebook announced this week that they suspended nearly 1,000 active accounts linked to a coordinated influence campaign. Twitter said it had shut down about 200,000 more before they could inflict any damage.
+
+“These accounts were deliberately and specifically attempting to sow political discord in Hong Kong, including undermining the legitimacy and political positions of the protest movement on the ground,” Twitter said, referring to the active accounts it shut down.
+
+Facebook said some of the posts from accounts it banned compared the protesters in Hong Kong with Islamic State group militants, branded them “cockroaches” and alleged they planned to kill people using slingshots.
+
+China has “taken a page from Russia’s playbook” as it uses social media platforms outside the country to wage a disinformation campaign against the protests, according to the non-profit Soufan Center for research, analysis, and strategic dialogue related to global security issues.
+
+“Beijing has deployed a relentless disinformation campaign on Twitter and Facebook powered by unknown numbers of bots, trolls, and so-called ‘sock puppets,'” the center said on its website, referring to fake online identities created for deception.
+
+“China’s behavior will likely grow more aggressive in both the physical and virtual realms, using on-the-ground actions to complement an intensifying cyber campaign characterized by disinformation, deflection, and obfuscation.”
+
+While social media platforms have been tools for people to advocate for rights, justice or freedom in their countries, the services are being turned on them by oppressive governments, according to the Soufan Center.
+
+“Autocratic governments are now using these same platforms to disparage demonstrators, divide protest movements, and confuse sympathetic onlookers,” the center said.
+
+Hong Kong, a semi-autonomous southern Chinese city and one of the world’s most important financial hubs, is in the grip of an unprecedented political crisis that has seen millions of people take to the streets demanding greater freedoms.
+
+China’s government has publicly largely left the city’s leaders and police force to try and resolve the crisis, but behind the scenes online, Beijing is seeking to sway public opinion about Hong Kong, according to Twitter and Facebook.
+
+“We are disclosing a significant state-backed information operation focused on the situation in Hong Kong, specifically the protest movement and their calls for political change,” Twitter said.
+
+It said it had pulled 936 accounts originating in China that were spreading disinformation.
+
+Twitter and Facebook are banned in China, part of the government’s so-called “Great Firewall” of censorship.
+
+Because of the bans, many of the fake accounts were accessed using “virtual private networks” that give a deceptive picture of the user’s location, Twitter said.
+
+Facebook said it had acted on a tip from Twitter, removing seven pages, three groups and five Facebook accounts that had about 15,500 followers.
+
+“Although the people behind this activity attempted to conceal their identities, our investigation found links to individuals associated with the Chinese government,” Facebook said.
